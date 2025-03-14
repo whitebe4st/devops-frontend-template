@@ -12,7 +12,7 @@ const geistMono = Geist_Mono({
   variable: "--font-geist-mono",
   subsets: ["latin"],
 });
-
+// hello
 export const metadata: Metadata = {
   title: "Secret Access",
   description: "A simple password-protected page",
